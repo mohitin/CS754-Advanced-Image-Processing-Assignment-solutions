@@ -5,4 +5,4 @@ Assignment1- Compressed Sensing \
 Assignment2- Compressed Sensing \
 Assignment3- Tomography and Compressed Sensing \
 Assignment4- Dictionary Learning \
-Assignment5- Statistics of Natural Images and Matrix recovery \
+Assignment5- Statistics of Natural Images and Matrix recovery 
